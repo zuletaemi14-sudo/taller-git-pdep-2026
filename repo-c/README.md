@@ -27,6 +27,6 @@ gcc calculadora.c -o calculadora
 ## Estado de las funciones
 
 - [x] `suma`
-- [ ] `resta` — Día 1
+- [x] `resta` — Día 1
 - [ ] `multiplicacion` — Día 2
 - [ ] `division` — Día 2
